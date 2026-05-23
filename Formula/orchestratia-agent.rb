@@ -3,8 +3,8 @@ class OrchestratiaAgent < Formula
 
   desc "Cross-platform daemon for AI agent orchestration"
   homepage "https://orchestratia.com"
-  url "https://github.com/kumarimlab/orchestratia-agent/archive/refs/tags/v0.13.0.tar.gz"
-  sha256 "3d38fd6f23e955ef25fccb16911b6a35044fb6a50e76a0439df426b29d654024"
+  url "https://github.com/kumarimlab/orchestratia-agent/archive/refs/tags/v0.13.1.tar.gz"
+  sha256 "8aecbebe99522326d2058a9bdaeaedb1e17b2dc40c86a358eefd746d35f6ca8a"
   license "MIT"
   head "https://github.com/kumarimlab/orchestratia-agent.git", branch: "main"
 
